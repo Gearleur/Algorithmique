@@ -1,4 +1,4 @@
-rogram base2;
+program base2;
 
 function pow( a , i : integer) : longint;
 var

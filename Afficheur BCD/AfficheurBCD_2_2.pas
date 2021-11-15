@@ -1,6 +1,6 @@
-program DecodeurBCD_7Segments;
+program AfficheurBCD_2_2;
 
-Uses Crt;
+uses crt;
 
 const 
     TMax = 4;
@@ -14,9 +14,9 @@ type
 
 procedure Lire(var chiffre, x, y, z : integer);
 begin
-    write('Chiffre … afficher : ');
+    write('Chiffre ï¿½ afficher : ');
     readln(chiffre);
-    writeln('Coordoon‚es du coin Haut-Gauche :');
+    writeln('Coordoonï¿½es du coin Haut-Gauche :');
     write('x = ');
     readln(x);
     write('y = ');

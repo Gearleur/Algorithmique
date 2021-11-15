@@ -1,4 +1,4 @@
-program finalbase10_2 ;
+program finalbas10_2 ;
 
 procedure Conv10_2_v1( nb: integer; var Tbin : array of integer ) ;
 var

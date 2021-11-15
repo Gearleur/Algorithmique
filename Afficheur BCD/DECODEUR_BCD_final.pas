@@ -1,4 +1,4 @@
-program DecodeurBCD_7Segments;
+program DECODEUR_BCD_final;
 
 Uses Crt;
 

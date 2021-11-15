@@ -1,4 +1,4 @@
-program DecodeurBCD_7Segments;
+program decodeurDCB;
 
 Uses Crt;
 

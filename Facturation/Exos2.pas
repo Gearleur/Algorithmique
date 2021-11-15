@@ -1,4 +1,4 @@
-program Facture;
+program Exos2;
 
 const
     TVA = 20/100;
@@ -7,7 +7,7 @@ procedure Entree(var PUHT, QTE, Remise, FrDP : real);
 begin
 	writeln( 'Prix untaire');
 	readln ( PUHT);
-	writeln('La quantit‚');
+	writeln('La quantitï¿½');
 	readln( QTE);
 	writeln('remise');
 	readln( Remise);

@@ -1,4 +1,4 @@
-program finalbase10_2 ;
+program finalBas10_2_v2 ;
 
 const 
     Tmax = 4;
