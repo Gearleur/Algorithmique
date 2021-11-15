@@ -1,4 +1,4 @@
-program base22;
+program bas2;
 
 function bas2( var a : integer) : string;
 var 
